@@ -16,8 +16,8 @@ If you want to deploy your own service instance, please follow the steps below:
 3. Go to `Workers > Create a Worker`
 4. Copy the content of [index.js](https://github.com/yushijinhun/elyby-proxy/blob/master/index.js), and paste it to `Script` window, then click `Save and Deploy`
 5. Go back to the worker page, open `Settings` tab, click `Add binding`
-  * Variable name: `KV_ELYBY_PROXY`
-  * KV namespace: the KV namespace you created in the 2nd step
+    * Variable name: `KV_ELYBY_PROXY`
+    * KV namespace: the KV namespace you created in the 2nd step
 
 # Known issues
 * Skins can't be loaded when the client uses authlib-injector while the server doesn't.
