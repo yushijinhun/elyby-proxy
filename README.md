@@ -1,10 +1,14 @@
+> **Ely.by provides official authlib-injector support now ([elyby/accounts#2](https://github.com/elyby/accounts/issues/2#issuecomment-790379802)), this project is no longer needed.**
+
 # elyby-proxy
 Use [Ely.by](https://ely.by/) as an [authlib-injector](https://github.com/yushijinhun/authlib-injector) authentication server.
 
 **This is an experimental project. Don't use it in production.**
 
 # Demo server
-[elyby.yushi.moe](https://elyby.yushi.moe/) is the official demo server.
+> **The demo server is no longer available, please use Ely.by's official authentication server.**
+
+~~[elyby.yushi.moe](https://elyby.yushi.moe/) is the official demo server.~~
 
 This server only forwards requests to Ely.by authentication server, and will not collect or store your data.
 
